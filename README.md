@@ -84,8 +84,8 @@ After execution, you will find:
 
 ```matlab
 Pylint Output/
-├── pylint_analysis_summary.xlsx > generated output from code_runner.py
-└── analysis_code_review.xlsx > already existing file for analysis of the result above. Need to refresh the path file in PowerQuery to connect with pylint_analysis_summary.xlsx
+├── pylint_output.xlsx > generated output from code_runner.py
+└── output_review.xlsx > already existing file for analysis of the result above. Need to refresh the path file in PowerQuery to connect with pylint_analysis_summary.xlsx
 
 Pyreverse Output/
 ├── classes_ProjectName.dot > generated UML diagram as a .dot file
